@@ -15,6 +15,11 @@ int add_float(float f, float t)
 {
 	return f+t;
 }
+
+char* add_char(char s.char s2)
+{
+	return s+s2;
+}
 int main()
 {
 	add(1,2);
